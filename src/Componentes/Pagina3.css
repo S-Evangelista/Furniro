@@ -9,10 +9,15 @@
 }
 
 img {
-    width: 100px;
+    width: 285px;
 }
 
 .linha{
     display: flex;
     flex-direction: row;
+}
+
+.ret2{
+    display: flex;
+    flex-direction: column;
 }

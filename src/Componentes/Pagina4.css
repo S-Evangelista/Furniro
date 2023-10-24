@@ -1,0 +1,37 @@
+.grade{
+    display: flex;
+    flex-direction: row;
+}
+
+.texto{
+    display: flex;
+    flex-direction: row;
+}
+.retangulo{
+    display: flex;
+    flex-direction: row;
+}
+.junto{
+    display: flex;
+    flex-direction: row;
+}
+
+.icone0{
+    width: 60px;
+}
+.texto{
+    display: flex;
+    flex-direction: column;
+}
+
+.box{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.faixa{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+}
+

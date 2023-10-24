@@ -3,6 +3,7 @@ import Cabecalho from './Componentes/Componentes';
 import Pagina1 from './Componentes/Pagina1';
 import Pagina2 from './Componentes/Pagina2';
 import Pagina3 from './Componentes/Pagina3';
+import Pagina4 from './Componentes/Pagina4';
 
 const App = () => {
   return (
@@ -11,6 +12,7 @@ const App = () => {
     <Pagina1/>
     <Pagina2/>
     <Pagina3/>
+    <Pagina4/>
   </>
 
   );
