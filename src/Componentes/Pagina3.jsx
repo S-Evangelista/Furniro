@@ -18,8 +18,6 @@ const Pagina3 = () => {
                                 <div className="textoProduto">
                                     <p className="tituloProduto">Syltherine</p>
                                     <p className="subtituloP">Stylish cofe chair</p>
-                                </div>
-                                <div className="preco">
                                     <p className="precoP">Rp 2.500.000</p>
                                     <p className="subPrecoP">Rp 3.500.000</p>
                                 </div>
@@ -30,8 +28,6 @@ const Pagina3 = () => {
                                 <div className="textoProduto">
                                     <p className="tituloProduto">Syltherine</p>
                                     <p className="subtituloP">Stylish cofe chair</p>
-                                </div>
-                                <div className="preco">
                                     <p className="precoP">Rp 2.500.000</p>
                                     <p className="subPrecoP">Rp 3.500.000</p>
                                 </div>
@@ -42,8 +38,6 @@ const Pagina3 = () => {
                                 <div className="textoProduto">
                                     <p className="tituloProduto">Syltherine</p>
                                     <p className="subtituloP">Stylish cofe chair</p>
-                                </div>
-                                <div className="preco">
                                     <p className="precoP">Rp 2.500.000</p>
                                     <p className="subPrecoP">Rp 3.500.000</p>
                                 </div>
@@ -54,8 +48,6 @@ const Pagina3 = () => {
                                 <div className="textoProduto">
                                     <p className="tituloProduto">Syltherine</p>
                                     <p className="subtituloP">Stylish cofe chair</p>
-                                </div>
-                                <div className="preco">
                                     <p className="precoP">Rp 2.500.000</p>
                                     <p className="subPrecoP">Rp 3.500.000</p>
                                 </div>
@@ -71,8 +63,6 @@ const Pagina3 = () => {
                                 <div className="textoProduto">
                                     <p className="tituloProduto">Syltherine</p>
                                     <p className="subtituloP">Stylish cofe chair</p>
-                                </div>
-                                <div className="preco">
                                     <p className="precoP">Rp 2.500.000</p>
                                     <p className="subPrecoP">Rp 3.500.000</p>
                                 </div>
@@ -83,8 +73,6 @@ const Pagina3 = () => {
                                 <div className="textoProduto">
                                     <p className="tituloProduto">Syltherine</p>
                                     <p className="subtituloP">Stylish cofe chair</p>
-                                </div>
-                                <div className="preco">
                                     <p className="precoP">Rp 2.500.000</p>
                                     <p className="subPrecoP">Rp 3.500.000</p>
                                 </div>
@@ -95,8 +83,6 @@ const Pagina3 = () => {
                                 <div className="textoProduto">
                                     <p className="tituloProduto">Syltherine</p>
                                     <p className="subtituloP">Stylish cofe chair</p>
-                                </div>
-                                <div className="preco">
                                     <p className="precoP">Rp 2.500.000</p>
                                     <p className="subPrecoP">Rp 3.500.000</p>
                                 </div>
@@ -107,8 +93,6 @@ const Pagina3 = () => {
                                 <div className="textoProduto">
                                     <p className="tituloProduto">Syltherine</p>
                                     <p className="subtituloP">Stylish cofe chair</p>
-                                </div>
-                                <div className="preco">
                                     <p className="precoP">Rp 2.500.000</p>
                                     <p className="subPrecoP">Rp 3.500.000</p>
                                 </div>
@@ -117,8 +101,9 @@ const Pagina3 = () => {
 
                         </div>
                     </div>
-
-            <a> Show More </a>
+                    <div className="showMore">
+                    <p className="show"> Show More </p>
+                    </div>
 
                 </body>
             </html>

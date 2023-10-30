@@ -6,10 +6,13 @@
 .gradeP3{
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 
 img {
     width: 285px;
+
 }
 
 .linha{
@@ -20,4 +23,63 @@ img {
 .ret2{
     display: flex;
     flex-direction: column;
+}
+.tituloP3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Poppins';
+    font-weight: bolder;
+    font-size: 40px;
+    margin-top: 56px;
+    margin-bottom: 32px;
+}
+
+.produto {
+    background-color: #f4f5f7;
+    padding-left: 0%;
+    padding-right: 0%;
+    padding-top: 0%;
+    margin: 32px;
+    align-items: flex-start;
+
+}
+.tituloProduto{
+    font-family: 'Poppins';
+    font-weight: 900;
+    font-size: 24px;
+}
+
+.subtituloP{
+    font-size: 16px;
+    font-family: 'Poppins';
+    font-weight: 500;
+    color: #898989;
+}
+
+.precoP{
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.textoProduto{
+    padding-right: 0%;
+}
+.show{
+    display: flex;
+    justify-content: center;
+    border: #B88E2F 1px solid;
+    width: 245px;
+    color: #B88E2F;
+    padding: 12px;
+
+}
+.showMore{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 64px;
+    margin-top: 32px;
 }

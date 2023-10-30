@@ -12,16 +12,18 @@ const Pagina4 = () => {
                 <body>
                     <div className="grade">
                         <div className="linha">
-                            <div className="produto">
+                            <div className="produto4">
                                 <div className="textoP4">
                                     <p className="tituloP4">Título</p>
                                     <p className="subtituloP4">smjcnjebqijasdkcs cjweb</p>
                                 </div>
+                                
                             </div>
-                            <div className="produto">
+                            <div className="vazia"></div>
+                            <div className="produto4">
                                 <img src="./img/retangulo1.png"></img>
                             </div>
-                            <div className="produto">
+                            <div className="produto4">
                                 <div className="ret2">
                                     <img src="./img/retangulo2.png"></img>
                                     <img src="./img/bolinhas.png"></img>
