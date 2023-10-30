@@ -1,13 +1,58 @@
 .footer{
     display: flex;
     flex-direction: row;
+    margin-left: 100px;
+    margin-right: 100px;
+    justify-content: space-between;
 }
 
 .coluna{
     display: flex;
     flex-direction: column;
+    margin-top: 45px;
 }
 .subscribe {
     display: flex;
     flex-direction: row;
+}
+
+.p{
+    margin: 45px;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.first{
+    color: #898989;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.tiF{
+    font-weight: 700;
+    font-size: 24px;
+    font-family: 'Poppins';
+
+}
+
+.textinhoF{
+    color:#898989;
+    font-weight: 400;
+}
+
+.tinhoF{
+    margin-top: 50px;
+}
+
+.footer2{
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
+.last{
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-style: unset;
+    margin-top: 36px;
+    margin-bottom: 36px;
 }

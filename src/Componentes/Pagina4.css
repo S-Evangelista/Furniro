@@ -3,15 +3,13 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    background-color: #FCF8F3;
+    
 }
 
-.texto{
+.texto4{
     display: flex;
-    flex-direction: row;
-}
-.retangulo{
-    display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 .junto{
     display: flex;
@@ -25,16 +23,41 @@
 .box{
     display: flex;
     flex-direction: row-reverse;
+    margin: 24px;
 }
 
 .faixa{
     display: flex;
     flex-direction: row-reverse;
-    justify-content: center;
+    justify-content: space-around;
+    background-color: #FAF3EA;
 }
 .textoP4{
 
     margin-right: 10px;
 
 }
+.produto4 {
+    margin: 12px;
+}
 
+.bolinhas{
+    width: 120px;
+}
+
+.linha{
+    margin-bottom: 40px;
+}
+
+.ti4{
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.sub4{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Poppins';
+    color: #898989;
+}

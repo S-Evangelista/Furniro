@@ -12,35 +12,43 @@ const Footer = () => {
                 <body>
                     <div className="footer">
                         <div className="coluna">
-                            <p>Furniro</p>
-                            <p>400 University Drive Suite 200 Coral Gables,
-                                FL 33134 USA</p>
+                            <p className="tiF">Furniro</p>
+                            <div className="tinhoF">
+                                <p className="textinhoF">400 University Drive Suite 200 Coral </p>
+                                <p className="textinhoF">Gables,</p>
+                                <p className="textinhoF">FL 33134 USA</p>
+                            </div>
                         </div>
                         <div className="coluna">
-                            <p>Links</p>
-                            <p>Home</p>
-                            <p>Shop</p>
-                            <p>About</p>
-                            <p>Contact</p>
+                            <p className="first">Links</p>
+                            <p className="p">Home</p>
+                            <p className="p">Shop</p>
+                            <p className="p">About</p>
+                            <p className="p">Contact</p>
 
                         </div>
                         <div className="coluna">
-                            <p>Help</p>
-                            <p>Payment Option</p>
-                            <p>Returns</p>
-                            <p>Privacy Policies</p>
+                            <p className="first" >Help</p>
+                            <p className="p">Payment Option</p>
+                            <p className="p">Returns</p>
+                            <p className="p">Privacy Policies</p>
 
                         </div>
                         <div className="coluna">
-                            <p>News Letter</p>
+                            <p className="first">News Letter</p>
                             <div className="subscribe">
-                                <p>Enter your e-mail adress </p>
-                                <a>SUBSCRIBE</a>
+                                <p className="p">Enter your e-mail adress </p>
+                                <p className="p">SUBSCRIBE</p>
                             </div>
 
                         </div>
 
                     </div>
+                    <div className="footer2">
+                        <hr></hr>
+                    <p className="last">2023 furniro. All rights reverved</p>
+                    </div>
+                    
                 </body>
             </html>
         </>

@@ -12,7 +12,7 @@ const Pagina4 = () => {
                 <body>
                     <div className="grade">
                         <div className="linha">
-                            <div className="produto4">
+                            <div className="produtoP4">
                                 <div className="textoP4">
                                     <p className="tituloP4">Título</p>
                                     <p className="subtituloP4">smjcnjebqijasdkcs cjweb</p>
@@ -26,7 +26,7 @@ const Pagina4 = () => {
                             <div className="produto4">
                                 <div className="ret2">
                                     <img src="./img/retangulo2.png"></img>
-                                    <img src="./img/bolinhas.png"></img>
+                                    <img className="bolinhas" src="./img/bolinhas.png"></img>
                                 </div>
                             </div>
 
@@ -34,9 +34,9 @@ const Pagina4 = () => {
                     </div>
                     <div className="faixa">
                         <div className="box">
-                            <div className="texto">
-                                <p>Titulo</p>
-                                <p>subtitulo</p>
+                            <div className="texto4">
+                                <p className="ti4">High Quality</p>
+                                <p className="sub4">crafted from top materials</p>
 
                             </div>
                             <div className="icone">
@@ -45,9 +45,9 @@ const Pagina4 = () => {
                             </div>
                         </div>
                         <div className="box">
-                            <div className="texto">
-                                <p>Titulo</p>
-                                <p>subtitulo</p>
+                            <div className="texto4">
+                                <p className="ti4">Warranty Protection</p>
+                                <p className="sub4">Over 2 years</p>
 
                             </div>
                             <div className="icone">
@@ -56,9 +56,9 @@ const Pagina4 = () => {
                             </div>
                         </div>
                         <div className="box">
-                            <div className="texto">
-                                <p>Titulo</p>
-                                <p>subtitulo</p>
+                            <div className="texto4">
+                                <p className="ti4">Free Shipping</p>
+                                <p className="sub4">Order over 150 $</p>
 
                             </div>
                             <div className="icone">
@@ -67,9 +67,9 @@ const Pagina4 = () => {
                             </div>
                         </div>
                         <div className="box">
-                            <div className="texto">
-                                <p>Titulo</p>
-                                <p>subtitulo</p>
+                            <div className="texto4">
+                                <p className="ti4">24 / 7 Support</p>
+                                <p className="sub4">Dedicated support</p>
 
                             </div>
                             <div className="icone">
