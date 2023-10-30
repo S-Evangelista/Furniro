@@ -11,9 +11,3 @@
     display: flex;
     flex-direction: row;
 }
-.linha{
-    width: 3px;
-    background-color: blue;
-    display: flex;
-    flex-direction: row;
-}

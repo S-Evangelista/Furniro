@@ -17,15 +17,15 @@ const Pagina2 = () => {
             <div className="blocos">
                 <div className="bloco">
                     <img src="./img/bloco1.png" className="bloco"></img>
-                    <p>Dining</p>
+                    <p className="tBloco">Dining</p>
                 </div>
                 <div className="bloco">
                     <img src="./img/bloco2.png" className="bloco"></img>
-                    <p>Living</p>
+                    <p className="tBloco"> Living</p>
                 </div>
                 <div className="bloco">
                     <img src="./img/bloco3.png" className="bloco"></img>
-                    <p>Bedroom</p>
+                    <p className="tBloco" >Bedroom</p>
                 </div>
                
 

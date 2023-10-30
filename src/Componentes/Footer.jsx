@@ -41,8 +41,6 @@ const Footer = () => {
                         </div>
 
                     </div>
-                    <div className="linhabege"></div>
-
                 </body>
             </html>
         </>
