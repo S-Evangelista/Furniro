@@ -12,24 +12,22 @@ const Pagina4 = () => {
                 <body>
                     <div className="grade">
                         <div className="linha">
-                            <div className="produtoP4">
+                            <div className="produtoP41">
                                 <div className="textoP4">
-                                    <p className="tituloP4">Título</p>
-                                    <p className="subtituloP4">smjcnjebqijasdkcs cjweb</p>
+                                    <p className="tituloP4">50+ Beautiful rooms </p>
+                                    <p className="tituloP4">inspiration</p>
+                                    <p className="subtituloP4">Our designer already made a lot of beautiful</p> 
+                                    <p>prototipe of rooms that inspire you</p>
                                 </div>
-                                
+
                             </div>
                             <div className="vazia"></div>
                             <div className="produto4">
-                                <img src="./img/retangulo1.png"></img>
+                                <img className="meio1" src="./img/retangulo1.png"></img>
                             </div>
                             <div className="produto4">
-                                <div className="ret2">
-                                    <img src="./img/retangulo2.png"></img>
-                                    <img className="bolinhas" src="./img/bolinhas.png"></img>
-                                </div>
+                                    <img className="meio2" src="./img/blocomeio.png"></img>
                             </div>
-
                         </div>
                     </div>
                     <div className="faixa">

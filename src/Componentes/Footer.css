@@ -12,6 +12,7 @@
     margin-top: 45px;
 }
 .subscribe {
+    margin-top: 45px;
     display: flex;
     flex-direction: row;
 }
@@ -55,4 +56,15 @@
     font-style: unset;
     margin-top: 36px;
     margin-bottom: 36px;
+}
+
+.ps{
+   color: #898989;
+   font-family: 'Poppins';
+   text-decoration: underline;
+}
+.psub{
+    font-family: 'Poppins';
+    text-decoration: underline;
+    font-weight: 500;
 }

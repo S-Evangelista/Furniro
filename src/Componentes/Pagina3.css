@@ -1,6 +1,6 @@
 .preco{
     display: flex;
-    
+    width: 285px;
 }
 
 .gradeP3{
@@ -60,7 +60,10 @@ img {
 .precoP{
     font-family: 'Poppins';
     font-weight: 600;
-    font-size: 20px;
+    font-size: 16px;
+}
+.subprecoP{
+    font-size: 12px;
 }
 
 .textoProduto{

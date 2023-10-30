@@ -37,8 +37,8 @@ const Footer = () => {
                         <div className="coluna">
                             <p className="first">News Letter</p>
                             <div className="subscribe">
-                                <p className="p">Enter your e-mail adress </p>
-                                <p className="p">SUBSCRIBE</p>
+                                <p className="ps">Enter your e-mail adress </p>
+                                <p className="psub">SUBSCRIBE</p>
                             </div>
 
                         </div>

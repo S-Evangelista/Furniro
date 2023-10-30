@@ -18,8 +18,8 @@ const Pagina3 = () => {
                                 <div className="textoProduto">
                                     <p className="tituloProduto">Syltherine</p>
                                     <p className="subtituloP">Stylish cofe chair</p>
-                                    <p className="precoP">Rp 2.500.000</p>
-                                    <p className="subPrecoP">Rp 3.500.000</p>
+                                    <div className="preco"><p className="precoP">Rp 2.500.000</p>
+                                    <p className="subPrecoP">Rp 3.500.000</p></div>
                                 </div>
 
                             </div>
@@ -28,8 +28,8 @@ const Pagina3 = () => {
                                 <div className="textoProduto">
                                     <p className="tituloProduto">Syltherine</p>
                                     <p className="subtituloP">Stylish cofe chair</p>
-                                    <p className="precoP">Rp 2.500.000</p>
-                                    <p className="subPrecoP">Rp 3.500.000</p>
+                                    <div className="preco"><p className="precoP">Rp 2.500.000</p>
+                                    <p className="subPrecoP">Rp 3.500.000</p></div>
                                 </div>
 
                             </div>
@@ -38,8 +38,8 @@ const Pagina3 = () => {
                                 <div className="textoProduto">
                                     <p className="tituloProduto">Syltherine</p>
                                     <p className="subtituloP">Stylish cofe chair</p>
-                                    <p className="precoP">Rp 2.500.000</p>
-                                    <p className="subPrecoP">Rp 3.500.000</p>
+                                    <div className="preco"><p className="precoP">Rp 2.500.000</p>
+                                    <p className="subPrecoP">Rp 3.500.000</p></div>
                                 </div>
 
                             </div>
@@ -48,8 +48,8 @@ const Pagina3 = () => {
                                 <div className="textoProduto">
                                     <p className="tituloProduto">Syltherine</p>
                                     <p className="subtituloP">Stylish cofe chair</p>
-                                    <p className="precoP">Rp 2.500.000</p>
-                                    <p className="subPrecoP">Rp 3.500.000</p>
+                                    <div className="preco"><p className="precoP">Rp 2.500.000</p>
+                                    <p className="subPrecoP">Rp 3.500.000</p></div>
                                 </div>
 
                             </div>
@@ -63,8 +63,8 @@ const Pagina3 = () => {
                                 <div className="textoProduto">
                                     <p className="tituloProduto">Syltherine</p>
                                     <p className="subtituloP">Stylish cofe chair</p>
-                                    <p className="precoP">Rp 2.500.000</p>
-                                    <p className="subPrecoP">Rp 3.500.000</p>
+                                    <div className="preco"><p className="precoP">Rp 2.500.000</p>
+                                    <p className="subPrecoP">Rp 3.500.000</p></div>
                                 </div>
 
                             </div>
@@ -73,8 +73,8 @@ const Pagina3 = () => {
                                 <div className="textoProduto">
                                     <p className="tituloProduto">Syltherine</p>
                                     <p className="subtituloP">Stylish cofe chair</p>
-                                    <p className="precoP">Rp 2.500.000</p>
-                                    <p className="subPrecoP">Rp 3.500.000</p>
+                                    <div className="preco"><p className="precoP">Rp 2.500.000</p>
+                                    <p className="subPrecoP">Rp 3.500.000</p></div>
                                 </div>
 
                             </div>
@@ -83,8 +83,9 @@ const Pagina3 = () => {
                                 <div className="textoProduto">
                                     <p className="tituloProduto">Syltherine</p>
                                     <p className="subtituloP">Stylish cofe chair</p>
-                                    <p className="precoP">Rp 2.500.000</p>
-                                    <p className="subPrecoP">Rp 3.500.000</p>
+                                    <div className="preco"><p className="precoP">Rp 2.500.000</p>
+                                    <p className="subPrecoP">Rp 3.500.000</p></div>
+                                    
                                 </div>
 
                             </div>
@@ -93,8 +94,8 @@ const Pagina3 = () => {
                                 <div className="textoProduto">
                                     <p className="tituloProduto">Syltherine</p>
                                     <p className="subtituloP">Stylish cofe chair</p>
-                                    <p className="precoP">Rp 2.500.000</p>
-                                    <p className="subPrecoP">Rp 3.500.000</p>
+                                    <div className="preco"><p className="precoP">Rp 2.500.000</p>
+                                    <p className="subPrecoP">Rp 3.500.000</p></div>
                                 </div>
 
                             </div>

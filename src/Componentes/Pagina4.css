@@ -29,16 +29,16 @@
 .faixa{
     display: flex;
     flex-direction: row-reverse;
-    justify-content: space-around;
     background-color: #FAF3EA;
 }
-.textoP4{
-
+.tituloP4{
     margin-right: 10px;
-
+    font-size: 40px;
+    font-weight: 700;
 }
 .produto4 {
     margin: 12px;
+    padding: 0%;
 }
 
 .bolinhas{
@@ -47,17 +47,32 @@
 
 .linha{
     margin-bottom: 40px;
+    padding-right: 0%;
 }
 
 .ti4{
     font-family: 'Poppins';
     font-weight: 600;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .sub4{
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 500;
     font-family: 'Poppins';
     color: #898989;
+}
+
+
+.meio1{
+    width: 404px;
+    height: 582px;
+}
+.meio2{
+    width: 404px;
+    height: 582px;
+}
+
+.vazia{
+    width: 280px;
 }
