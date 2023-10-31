@@ -17,7 +17,7 @@ const Pagina3 = () => {
                                 <img src="./img/1.png"></img>
                                 <div className="textoProduto">
                                     <p className="tituloProduto">Syltherine</p>
-                                    <p className="subtituloP">Stylish cofe chair</p>
+                                    <p className="subtituloP">Stylish cafe chair</p>
                                     <div className="preco"><p className="precoP">Rp 2.500.000</p>
                                     <p className="subPrecoP">Rp 3.500.000</p></div>
                                 </div>
@@ -27,7 +27,7 @@ const Pagina3 = () => {
                                 <img src="./img/2.png"></img>
                                 <div className="textoProduto">
                                     <p className="tituloProduto">Syltherine</p>
-                                    <p className="subtituloP">Stylish cofe chair</p>
+                                    <p className="subtituloP">Stylish cafe chair</p>
                                     <div className="preco"><p className="precoP">Rp 2.500.000</p>
                                     <p className="subPrecoP">Rp 3.500.000</p></div>
                                 </div>
@@ -37,7 +37,7 @@ const Pagina3 = () => {
                                 <img src="./img/3.png"></img>
                                 <div className="textoProduto">
                                     <p className="tituloProduto">Syltherine</p>
-                                    <p className="subtituloP">Stylish cofe chair</p>
+                                    <p className="subtituloP">Stylish cafe chair</p>
                                     <div className="preco"><p className="precoP">Rp 2.500.000</p>
                                     <p className="subPrecoP">Rp 3.500.000</p></div>
                                 </div>
@@ -47,7 +47,7 @@ const Pagina3 = () => {
                                 <img src="./img/4.png"></img>
                                 <div className="textoProduto">
                                     <p className="tituloProduto">Syltherine</p>
-                                    <p className="subtituloP">Stylish cofe chair</p>
+                                    <p className="subtituloP">Stylish cafe chair</p>
                                     <div className="preco"><p className="precoP">Rp 2.500.000</p>
                                     <p className="subPrecoP">Rp 3.500.000</p></div>
                                 </div>
@@ -62,7 +62,7 @@ const Pagina3 = () => {
                                 <img src="./img/5.png"></img>
                                 <div className="textoProduto">
                                     <p className="tituloProduto">Syltherine</p>
-                                    <p className="subtituloP">Stylish cofe chair</p>
+                                    <p className="subtituloP">Stylish cafe chair</p>
                                     <div className="preco"><p className="precoP">Rp 2.500.000</p>
                                     <p className="subPrecoP">Rp 3.500.000</p></div>
                                 </div>
@@ -72,7 +72,7 @@ const Pagina3 = () => {
                                 <img src="./img/6.png"></img>
                                 <div className="textoProduto">
                                     <p className="tituloProduto">Syltherine</p>
-                                    <p className="subtituloP">Stylish cofe chair</p>
+                                    <p className="subtituloP">Stylish cafe chair</p>
                                     <div className="preco"><p className="precoP">Rp 2.500.000</p>
                                     <p className="subPrecoP">Rp 3.500.000</p></div>
                                 </div>
@@ -82,7 +82,7 @@ const Pagina3 = () => {
                                 <img src="./img/7.png"></img>
                                 <div className="textoProduto">
                                     <p className="tituloProduto">Syltherine</p>
-                                    <p className="subtituloP">Stylish cofe chair</p>
+                                    <p className="subtituloP">Stylish cafe chair</p>
                                     <div className="preco"><p className="precoP">Rp 2.500.000</p>
                                     <p className="subPrecoP">Rp 3.500.000</p></div>
                                     
@@ -93,7 +93,7 @@ const Pagina3 = () => {
                                 <img src="./img/8.png"></img>
                                 <div className="textoProduto">
                                     <p className="tituloProduto">Syltherine</p>
-                                    <p className="subtituloP">Stylish cofe chair</p>
+                                    <p className="subtituloP">Stylish cafe chair</p>
                                     <div className="preco"><p className="precoP">Rp 2.500.000</p>
                                     <p className="subPrecoP">Rp 3.500.000</p></div>
                                 </div>

@@ -35,10 +35,18 @@
     margin-right: 10px;
     font-size: 40px;
     font-weight: 700;
+    margin-top: 200px;
 }
+.tituloP41{
+    margin-right: 10px;
+    font-size: 40px;
+    font-weight: 700;
+}
+
 .produto4 {
     margin: 12px;
     padding: 0%;
+    margin-top: 50px;
 }
 
 .bolinhas{
@@ -74,5 +82,26 @@
 }
 
 .vazia{
-    width: 280px;
+    width: 200px;
+}
+
+.botaoLaranja{
+    margin: 10px;
+    margin-left: 50px;
+    margin-top: 40px;
+    padding: 10px 20px;
+    border: #B88E2F 3px solid;
+    background-color: #B88E2F;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+
+}
+
+.botaoL{
+
+    width: 300px;
+
 }

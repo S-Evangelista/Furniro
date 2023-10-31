@@ -15,9 +15,12 @@ const Pagina4 = () => {
                             <div className="produtoP41">
                                 <div className="textoP4">
                                     <p className="tituloP4">50+ Beautiful rooms </p>
-                                    <p className="tituloP4">inspiration</p>
+                                    <p className="tituloP41">inspiration</p>
                                     <p className="subtituloP4">Our designer already made a lot of beautiful</p> 
                                     <p>prototipe of rooms that inspire you</p>
+                                    <div className="botaoL">
+                                    <p className="botaoLaranja"> Explore more </p>
+                                    </div>
                                 </div>
 
                             </div>
