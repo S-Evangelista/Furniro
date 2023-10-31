@@ -47,8 +47,8 @@ const Pagina4 = () => {
                         </div>
                         <div className="box">
                             <div className="texto4">
-                                <p className="ti4">Warranty Protection</p>
-                                <p className="sub4">Over 2 years</p>
+                                <p className="ti4">Warranty Protection </p>
+                                <p className="sub4">Over 2 years </p>
 
                             </div>
                             <div className="icone">
